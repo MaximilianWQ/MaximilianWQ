@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MaximilianWQ/MaximilianWQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/banner-dark.svg?v=855cfd0d">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/banner-light.svg?v=855cfd0d">
+  <img alt="Novikov — веб-сервисы, корпоративные системы и автоматизация" src="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/banner-dark.svg?v=855cfd0d" width="880">
+</picture>
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/repos-dark.svg?v=855cfd0d">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/repos-light.svg?v=855cfd0d">
+  <img alt="Главные проекты по активности за последние 30 дней" src="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/repos-dark.svg?v=855cfd0d" width="880">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/activity-dark.svg?v=855cfd0d">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/activity-light.svg?v=855cfd0d">
+  <img alt="Последние коммиты по всем репозиториям" src="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/activity-dark.svg?v=855cfd0d" width="880">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/pulse-dark.svg?v=855cfd0d">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/pulse-light.svg?v=855cfd0d">
+  <img alt="Пульс разработки — коммиты по неделям за 12 недель" src="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/pulse-dark.svg?v=855cfd0d" width="880">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/languages-dark.svg?v=855cfd0d">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/languages-light.svg?v=855cfd0d">
+  <img alt="Языки по объёму кода во всех репозиториях" src="https://raw.githubusercontent.com/MaximilianWQ/.github/main/profile/assets/languages-dark.svg?v=855cfd0d" width="880">
+</picture>
+
+<br>
+
+<sub>Большая часть репозиториев приватная — панели показывают только метаданные.<br>
+Панели собираются из GitHub API каждые 6 часов; сообщения коммитов проходят фильтрацию перед публикацией.</sub>
+
+</div>
